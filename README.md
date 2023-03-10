@@ -1,7 +1,23 @@
 # Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
-(fill in your description and goals here)
+This project will be awesome!
+
+[This is a link to google](www.google.com)
+
+![Cannot find image](sql-cheat-sheet.png "A cheat sheet")
+
+$y=mx+b$
+
+```SQL
+SELECT * FROM myTable
+```
+
+
+
+
+
+
 
 ## Process
 ### (your step 1)
